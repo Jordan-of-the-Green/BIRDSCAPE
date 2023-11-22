@@ -1,0 +1,33 @@
+# Version 2.0.0 Birdscape - Release Notes
+_______________________________________________________________________________________________________________________________________________________________________
+
+Team Members:
+Jordan Green - ST10083222 (Team Leader)
+Mishra Mohammad - ST10083182
+Daylin Shadrach - ST10083296
+Cameron Pillay - ST10083199
+_______________________________________________________________________________________________________________________________________________________________________
+## New Features:
+
+- **Bird News (First Feature):** We initially specified in the initial planning document that our first feature to be included in the prototype app was to be a bird news feature, whereby users can view different news articles that will cater for bird-lovers. Unfortunately this feature was not included as there was difficulty to get this feature operational, however we subsituted that feature by including the knowledge button on the main dashboard, as when a user clicks on the button, the information that was drawn from the Application Programming Interface (API - eBird.com) 2.0 in a RecyclerView format, as if the user does not want to view the different bird hotspots on the map but to rather view the birding hotspot information using a pure visual format such as they can read and study it, the information will be drawn from the API and display it to the user.    
+
+- **Birding Weather (Second Feature):** As specified in our initial research document, we implemented a feature for the final solution to our Birdscape birding watching app, where users can input any location value provided where a user-friendly display will appear after a user has made a request to the API - WeatherApi.com that will draw the information about that particular location (including the coordinate location, region, country name and weather forcast information) and display it back to the user with this information so that they may be aware if the weather conditions are adequate to venture into birdwatching on that particular day as no-one prefers to sit outside on an abismal day where it is raining to view birds but rather a perfect, clear day where the sun is out and the birds are in the air.
+
+- **Observations displayed on the map:** Once a user has entered their particular bird observation page provided, the information will be stored in a RecyclerView that will also be added as a hotspot on the map, once the user navigates back to the map.
+
+## Improvements:
+
+- **Bug Fixes:** We attempted to resolve any bug and errors we experienced during the development of our prototype app. This includes; resolving the crashing procedure of the app when the user attempts to navigate back to the dashboard and map pages once they have manipulated the settings page, we provided placeholder images as initially the app attempted to call information where no image was saved in the observation page, the map activity initially did not provide the correct user location, but that is resolved and the hotspots are displayed effectively in that location.
+
+- **Performance Boost:** Experience faster load times and smoother navigation throughout the Birdscape app.  
+
+## Updates:
+
+- **Updated and Improved User Interface Design:** We strived to cohesively design the final solution of the app as to prior development, each team member contributed different design elements such as background settings and button placement, whereas we collectively contributed to a new, and improved design of the app that provides consistent and connect functionality throughout.
+
+- **Successful storing to database:** We have successfully contributed to allow users to save their data using an online database platform for Android devices called Firebase storage in a secured manner.
+
+We hope that you enjoy using our Birdscape birdwatching app to make your birdwatching experience better and more enjoyable.
+
+- Birdscape Team
+_______________________________________________________________________________________________________________________________________________________________________
