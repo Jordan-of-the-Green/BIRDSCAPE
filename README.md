@@ -2,10 +2,10 @@
 
 # BIRDSCAPE Group Members:
 
-Jordan Green - ST10083222 (Team Leader)
-Mishra Mohammed - ST10083182
-Daylin Shadrach - ST10083296
-Cameron Pillay - ST10083199
+### Jordan Green - ST10083222 (Team Leader)  
+### Mishra Mohammed - ST10083182  
+### Daylin Shadrach - ST10083296  
+### Cameron Pillay - ST10083199  
 
 # Demo Video: Youtube Link:
 (https://www.youtube.com/watch?v=1Gpar4-3_IE)
