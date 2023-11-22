@@ -35,27 +35,28 @@ Step 6
         * You have now accessed our BIRDSCAPE Android Studio.
 
 # Key Features:
-•	User Registration and Login:
-•	Create your personalized BIRDSCAPE account or log in with ease.
-•	Your account allows you to keep track of your bird sightings and access your saved data.
-•	Interactive Map:
-•	BIRDSCAPE integrates a dynamic map feature that enhances your birdwatching adventures.
-•	With your permission, the app retrieves your location, so you can explore bird hotspots nearby.
-•	Discover Bird Hotspots:
-•	Easily locate birdwatching hotspots on the map.
-•	Explore popular birding areas or discover hidden gems for bird sightings.
-•	Save Bird Sightings:
-•	BIRDSCAPE lets you record your bird sightings with a few simple taps.
-•	Capture bird names, and even add photos to create a personal birdwatching journal.
-•	View Your Birding History:
-•	Access your bird sighting history at any time.
-•	Review past sightings, share them with fellow birders, and track your progress as you continue your birdwatching journey.
-Why BIRDSCAPE?
-•	Connect with Nature: BIRDSCAPE brings you closer to the wonders of the natural world. Explore the avian diversity in your area and beyond.
-•	User-Friendly Interface: The app is designed for all levels of birdwatchers, from beginners to experts. Its intuitive design ensures a seamless and enjoyable experience.
-•	Community Sharing: Connect with a community of fellow birders, share your sightings, and discover new species based on shared experiences.
-•	Educational Resource: BIRDSCAPE is a valuable educational resource. Learn more about birds, their habits, and habitats through our integrated database.
-Download BIRDSCAPE today and embark on a journey of discovery as you observe, record, and share your birdwatching experiences.
+## User Registration and Login:  
+•	Create your personalized BIRDSCAPE account or log in with ease.  
+•	Your account allows you to keep track of your bird sightings and access your saved data.  
+## 	Interactive Map:  
+•	BIRDSCAPE integrates a dynamic map feature that enhances your birdwatching adventures.  
+•	With your permission, the app retrieves your location, so you can explore bird hotspots nearby.  
+## 	Discover Bird Hotspots:  
+•	Easily locate birdwatching hotspots on the map.  
+•	Explore popular birding areas or discover hidden gems for bird sightings.  
+##	Save Bird Sightings:  
+•	BIRDSCAPE lets you record your bird sightings with a few simple taps.  
+•	Capture bird names, and even add photos to create a personal birdwatching journal.  
+## 	View Your Birding History:  
+•	Access your bird sighting history at any time.  
+•	Review past sightings, share them with fellow birders, and track your progress as you continue your birdwatching journey.  
+## Why BIRDSCAPE?  
+•	Connect with Nature: BIRDSCAPE brings you closer to the wonders of the natural world. Explore the avian diversity in your area and beyond.  
+•	User-Friendly Interface: The app is designed for all levels of birdwatchers, from beginners to experts. Its intuitive design ensures a seamless and enjoyable experience.  
+•	Community Sharing: Connect with a community of fellow birders, share your sightings, and discover new species based on shared experiences.  
+•	Educational Resource: BIRDSCAPE is a valuable educational resource. Learn more about birds, their habits, and habitats through our integrated database.  
+
+## Download BIRDSCAPE today and embark on a journey of discovery as you observe, record, and share your birdwatching experiences.
 
 
 # Images:
